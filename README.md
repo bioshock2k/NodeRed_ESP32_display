@@ -10,7 +10,7 @@ It has 3 phases displayed with a status bar below showing the decimals of the nu
 #Too develop
 I will probably develop next a 3D casing for the ESP32 for extra looks.
 But for now it will do
-#Image
+# Image
 PS:don´t mind the vetical lines on the numbers, the screen got broken on shipping.
  ![](Images/Image1.jpeg)	
 # Enjoy!
