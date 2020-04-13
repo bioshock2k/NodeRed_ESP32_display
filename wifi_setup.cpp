@@ -1,8 +1,8 @@
 #include "wifi_setup.h"
 #include <WiFi.h>
 
-#define WIFISSID1 "ZON-C080" // Put your WifiSSID here
-#define PASSWORD1 "alvaroeomaior" // Put your wifi password here
+#define WIFISSID1 "XXXXX" // Put your WifiSSID here
+#define PASSWORD1 "XXXXXXX" // Put your wifi password here
 #define LED 2
 
   // Set your Static IP address
