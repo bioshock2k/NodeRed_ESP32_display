@@ -1,3 +1,7 @@
+////////////////////////////////////////////////////////////
+// 		    Code writen by: bioshock2k  4/13/2020       //
+//	Github repository:  bioshock2k /ESP32_House_monitoring//
+////////////////////////////////////////////////////////////
 #include <OLEDDisplay.h>
 #include <OLEDDisplayFonts.h>
 #include <OLEDDisplayUi.h>
