@@ -1,10 +1,12 @@
 # ESP32 Display
 # Use Case
-I´ve first tried to develop this code when i wanted to monitor my house consumption and be on top of my solar production also..
-A note my house has a 3 phase connection so i hace a 3 phase inverter installed.
+I´ve first tried to develop this code when i finished the project to monitor my house consumption pairing with my solar production.
+That project can be seen in my other repository on ESP32_House_monitoring.
+
 Displaying the information in real time can give me an edge on when or what phase of the house can i use some electronic device
 to better manage my electric bill.
 Getting the information on my web server was cool but live information is beter so the code got developed.
+
 # Features
 It has 3 phases displayed with a status bar below showing the decimals of the number. (pretty cool look)
 #Too develop
